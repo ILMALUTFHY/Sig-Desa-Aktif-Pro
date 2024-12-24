@@ -1,4 +1,4 @@
-SISTEM INFORMASI DESA
+SISTEM INFORMASI DESA AKTIF PRO
 
 ### Modul
 
@@ -43,7 +43,3 @@ SISTEM INFORMASI DESA
     -   Log
     -   Plugin
 
-Untuk tampilan halaman depat menggunakan tempate dari website https://lakomeararowatu.web.id/
-
-### Saweria
-https://saweria.co/arifpriadi
